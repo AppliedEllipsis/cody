@@ -243,8 +243,8 @@
       "activitybar": [
         {
           "id": "cody",
-          "title": "Cody",
-          "icon": "resources/cody.svg"
+          "title": "Cody²Dev",
+          "icon": "resources/cody-dev.svg"
         }
       ]
     },
