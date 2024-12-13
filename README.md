@@ -11,7 +11,7 @@ This is a custom build with extended capabilities. For support and issues relate
 
 1. This is forked off *PriNova's* [**cody-custom**](https://github.com/PriNova/cody) called [**Cody²Dev**](https://github.com/AppliedEllipsis/cody).
 1. I really plan on just using this as a playground for my own ideas and experiments.
-1. See my notes about this build at [Cody²Dev](https://github.com/AppliedEllipsis/cody/blob/main/vscode/doc/Cody²Dev.md)
+1. See my notes about this build at [Cody²Dev](https://github.com/AppliedEllipsis/cody/blob/main/vscode/doc/Cody2Dev.md)
 
 </div>
 
