@@ -10,7 +10,7 @@
 1. This is forked off *PriNova's* [**cody-custom**](https://github.com/PriNova/cody) called [**Cody²Dev**](https://github.com/AppliedEllipsis/cody) maintained by *AppliedEllipsis*.
 1. I really plan on just using this as a playground for my own ideas and experiments.
 1. Icon and title change to Cody²Dev and reverse the eyes on the icon, with a tongue sticking out so I can quickly tell that I'm on this f
-
+1. I'm planning on updating some documents to make it easier for others to get started
 
 
 
